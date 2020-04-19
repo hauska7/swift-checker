@@ -4,11 +4,13 @@ This gem allows for validating SWIFT numbers. It uses an external api to do so.
 
 # Installation
 
-`require "swift_checker"`
+`gem "swift_checker"`
 
 # Simple usage
 
 ```
+require "swift_checker"
+
 swift_checker = SwiftChecker.new
 
 result = swift_checker.validate(swift)
@@ -23,6 +25,8 @@ end
 # Production usage
 
 ```
+require "swift_checker"
+
 # if anything important changes in api you want to know about that
 class Watcher
   def notify_human(info)
