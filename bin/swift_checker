@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
-require 'hola'
+require 'swift_checker'
 puts Hola.hi(ARGV[0])
