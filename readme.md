@@ -1,6 +1,6 @@
 # Swift Checker
 
-This gem allows for validating SWIFT numbers. It uses an external api to do so.
+This gem allows for validating SWIFT / BIC codes. It uses an external api to do so.
 
 # Installation
 
