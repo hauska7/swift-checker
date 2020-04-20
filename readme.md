@@ -47,4 +47,6 @@ else
 end
 ```
 
+# Disclimer
 
+The gem and api is provided as is. I commes without any assurances and obligations. I am not responsible if it causes any hardships. Please use it responsibly.
